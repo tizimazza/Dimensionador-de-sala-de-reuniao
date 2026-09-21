@@ -1,0 +1,8 @@
+{
+  "name": "Plugin dimensionador de sala de reuniao",
+  "description": "Calculador e orientador técnico para instaladores e integradores de áudio e vídeo. Recomenda cameras, speakerphones, microfones, alto falantes e processadores, docking stations para um determinado tamanho e tipo de ambiente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

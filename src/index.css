@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root {
+  --color-selection: #df1319;
+  --color-action: #9ebf24;
+}
+
+input:focus, select:focus, textarea:focus {
+  outline-color: var(--color-selection) !important;
+  border-color: var(--color-selection) !important;
+  box-shadow: 0 0 0 1px var(--color-selection) !important;
+}
